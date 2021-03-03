@@ -2,7 +2,7 @@
 <br/>
 
 Goal:  
-Create Convolutional Neural Network to prediction the label for grayscale images of the article of clothing.
+Create Convolutional Neural Network to predict the label for grayscale images of clothing.
 
 Dataset source:  
 https://www.kaggle.com/zalando-research/fashionmnist
